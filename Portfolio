@@ -107,7 +107,7 @@ header h1 {
 }
 
 .project img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 5px;
 }
 
